@@ -1,0 +1,7 @@
+'a','bill','815-wabramst-arlington'		
+'j','molly','415-scooperst-arlington'		
+'p','chop','456-wlamarst-arlington'		
+'a','hill','876-eabramst-arlington'		
+'s','abraham','9-wkundust-dallas'		
+'i','west','51-ncooperst-arlington'		
+'m','brown','6-sixflagblvd-arlington'		

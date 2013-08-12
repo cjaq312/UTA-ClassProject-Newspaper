@@ -1,0 +1,10 @@
+'abc','Daily',12,300,'thehindu',300
+'abc','Daily',14,600,'thehindu',550
+'newyorktimes','Daily',22,300,'nytimes',200
+'newyorktimes','Daily',24,600,'nytimes',350
+'abc','Weekly',32,150,'yellowpages',200
+'abc','Weekly',34,300,'yellowpages',350
+'uta','Weekly',42,150,'shorthorn',150
+'uta','Weekly',44,300,'shorthorn',250
+'superman','Daily',52,300,'dailyplanet',500
+'superman','Daily',54,600,'dailyplanet',900

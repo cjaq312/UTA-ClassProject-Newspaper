@@ -1,0 +1,8 @@
+'abc','balarama',20,11,12,'Weekly'
+'abc','balarama',30,13,24,'Weekly'
+'hell','pray',100,21,12,'Monthly'
+'hell','pray',190,23,24,'Monthly'
+'pearson','digit',30,31,12,'Quarterly'
+'pearson','digit',55,33,24,'Quarterly'
+'abc','week',40,41,12,'Monthly'
+'abc','week',75,43,24,'Monthly'
